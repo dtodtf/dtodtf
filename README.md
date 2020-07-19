@@ -5,7 +5,6 @@ I'm an undergrad at Tufts University 🐘 studying computer science. I have a lo
 - This summer I'm interning at the[ Defense Information Systems Agency](https://disa.mil/). 
 - I'm taking a gap semester this fall because of COVID-19.
 - Ask me about my two dogs.
-- Somehow not addicted to coffee yet.
 
 ## Technologies I use often 💻
 - Ansible
