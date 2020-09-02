@@ -2,8 +2,8 @@
 I'm an undergrad at Tufts University studying computer science. I have a lot of code from my classes that I'd love to show, but I can't do that publicly. I don't want my dean chasing me down. Email me at dylantodtfeld@gmail.com if you want to see a code sample! 
 
 ## About me
-- This summer I'm interning at the[ Defense Information Systems Agency](https://disa.mil/). 
-- I'm taking a gap semester this fall because of COVID-19.
+- This summer I interned at the[ Defense Information Systems Agency](https://disa.mil/). 
+- I'm a hard worker who is always willing to go the extra mile. It's how I made the Dean's List every semster at college.
 - Ask me about my two dogs.
 
 ## Technologies I use often
