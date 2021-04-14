@@ -2,9 +2,10 @@
 I'm an undergrad at Tufts University studying computer science. I have a lot of code from my classes that I'd love to show, but I can't do that publicly. I don't want my dean chasing me down. Email me at dylantodtfeld@gmail.com if you want to see a code sample! 
 
 ## About me
-- This summer I interned at the[ Defense Information Systems Agency](https://disa.mil/). 
-- I'm a hard worker who is always willing to go the extra mile. It's how I made the Dean's List every semster at college.
-- Ask me about my two dogs.
+- This summer I am interning at [Morgan Stanley](https://www.morganstanley.com/).
+- Last summer I interned at the[ Defense Information Systems Agency](https://disa.mil/). 
+- I've taken a few courses in cybersecurity and I'm trying to learn more about different applications of computer science.
+- Ask me about my two dogs!
 
 ## Technologies I use often
 - Ansible
@@ -23,6 +24,7 @@ I'm an undergrad at Tufts University studying computer science. I have a lot of 
  - [Machine Structure and Assembly-Language Programming](https://www.cs.tufts.edu/comp/40/)
  - [Algorithms](http://www.cs.tufts.edu/comp/160/)
  - [Intro to Computer Security](https://comp116.org)
+ - Programming Languages (I TA this course now)
 
 ##
 
