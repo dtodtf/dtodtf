@@ -25,6 +25,8 @@ I'm an undergrad at Tufts University studying computer science. I have a lot of 
  - [Algorithms](http://www.cs.tufts.edu/comp/160/)
  - [Intro to Computer Security](https://comp116.org)
  - Programming Languages (I TA this course now)
+ - How Systems Fail
+ - Computation Theory
 
 ##
 
